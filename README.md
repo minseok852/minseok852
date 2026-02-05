@@ -43,7 +43,7 @@
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Database**
 
@@ -83,6 +83,14 @@
 
 ---
 
+### 🏆 Baekjoon (solved.ac)
+
+<p align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=minseock852" alt="Solved.ac Profile"/>
+</p>
+
+---
+
 ### 📝 Latest Blog Posts
 
 <!-- 블로그 글을 수동으로 업데이트하거나, GitHub Actions로 자동화할 수 있어요 -->
@@ -95,7 +103,7 @@
 ### 🎯 Currently
 
 - 📖 Java 기초 & Spring Boot 공부 중
-- 💻 백준 알고리즘 매일 풀기 ([Baekjoon Profile](https://www.acmicpc.net/minseock852))
+- 💻 백준 알고리즘 매일 풀기 ([Baekjoon Profile](https://www.acmicpc.net/user/minseock852))
 - 🎯 백엔드 개발 인턴 준비 중
 
 ---
