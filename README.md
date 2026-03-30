@@ -66,7 +66,7 @@
 | **[DJU Stamp Tour](https://djustamp.com)** | 대학교 행사 QR 스탬프 투어 시스템 (GPS 검증, 실시간 혼잡도 모니터링) | React, FastAPI, PostgreSQL, AWS |
 | **[CampusMaru](https://campusmaru.com)** | 대학생 맞춤 장학금 검색 플랫폼 (개인화 추천, 북마크) | PHP, MySQL |
 | **대진대 시간표 앱(https://siganpyo-dju.vercel.app/)** | AI 기반 수강신청 추천 시스템 | React, FastAPI, Firebase |
-| **버스 예약 자동화** | 대진대학교 통학버스 자동 예약 프로그램 (GUI) | Python |
+
 
 ---
 
